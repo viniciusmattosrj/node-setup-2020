@@ -16,13 +16,12 @@ Este é um exemplo de setup para o ambiente NodeJS voltado a apaixonados pelo ec
 
 - <a href="https://www.youtube.com/watch?v=rCeGfFk-uCk">Setup NodeJS 2020</a> - Diego Fernandes 
 
-&nbsp;
 #### Instalação
 
 Para instalação verifique **[installation documentation](docs/installation.md)**.
 
-## Contribuições
+### Contribuições
 Feedback são sempre bem vindos, então caso identifique pontos que possam ser aprimorados envie o seu PR. ;-)
 
-## License
+### License
 [MIT](https://choosealicense.com/licenses/mit/)
