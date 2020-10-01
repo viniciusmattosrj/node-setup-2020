@@ -1,4 +1,4 @@
-# Requerimentos
+## Requerimentos
 
 - Node &ge; 13.10
 - Npm
@@ -16,7 +16,7 @@ Este é um exemplo de setup para o ambiente NodeJS voltado a apaixonados pelo ec
 
 - <a href="https://www.youtube.com/watch?v=rCeGfFk-uCk">Setup NodeJS 2020</a> - Diego Fernandes 
 
-#### Instalação
+### Instalação
 
 Para instalação verifique **[installation documentation](docs/installation.md)**.
 
